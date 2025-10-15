@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Date": "2024-06-01",
+    "Description": "Lunch",
+    "Amount": 15.5
+  },
+  {
+    "ID": 3,
+    "Date": "2005-05-23",
+    "Description": "home rent",
+    "Amount": 50
+  },
+  {
+    "ID": 5,
+    "Date": "2012-04-21",
+    "Description": "Car",
+    "Amount": 10005
+  },
+  {
+    "ID": 7,
+    "Date": "2022-11-21",
+    "Description": "Iphone",
+    "Amount": 1115
+  },
+  {
+    "ID": 8,
+    "Date": "2005-05-23",
+    "Description": "Iphone 2",
+    "Amount": 50
+  }
+]
